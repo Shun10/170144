@@ -1,3 +1,3 @@
 # ShunRepository
 20171127 
--GithubDesktopを使ってClone,pushしてみた
+-GithubDesktopを使ってclone,pushしてみた
