@@ -1,10 +1,9 @@
-import javax.swing.JFrame;
-import javax.swing.JTextField;
-import javax.swing.JPanel;
+import javax.swing.*;
+import java.awt.*;
 
-public class LargeFrame extends JFrame{
+public class TestGui extends JFrame{
 
-	LargeFrame(String title){
+	TestGui(String title){
 		setTitle(title);
 		setLocation(0,0);
 		setSize(1000,1000);
